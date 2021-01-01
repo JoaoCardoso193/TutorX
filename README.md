@@ -12,7 +12,9 @@ This app is for students to view and schedule appointments with tutors.
 ## Getting Started
 1. Clone Repository to your local machine and navigate into it.
 2. Type 'bundle install' in your machine's terminal.
-3. Type 'ruby bin/run.rb' in terminal to start. 
+3. Type 'ruby bin/run.rb' in terminal to start.
+
+Alternatively, [![Run on Repl.it](https://repl.it/badge/github/JoaoCardoso193/TutorX)](https://repl.it/github/JoaoCardoso193/TutorX)
 
 ## Functionality
 - Create a user profile by setting your name and password.
